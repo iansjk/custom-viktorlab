@@ -1,0 +1,3 @@
+[submodule "akdata"]
+	path = viktorlab
+	url = https://github.com/xulai1001/akdata
